@@ -1,0 +1,41 @@
+_repo: The-Legends-of-the-Jews-Volume-4_2882
+contributor:
+  translators:
+  - agent_name: Radin, Paul
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '26638'
+    url: http://www.gutenberg.org/2009/agents/26638
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Radin
+  - agent_name: Szold, Henrietta
+    birthdate: 1860
+    deathdate: 1945
+    gutenberg_agent_id: '26637'
+    url: http://www.gutenberg.org/2009/agents/26637
+    wikipedia: http://en.wikipedia.org/wiki/Henrietta_Szold
+creator:
+  author:
+    agent_name: Ginzberg, Louis
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '651'
+    url: http://www.gutenberg.org/2009/agents/651
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Ginzberg
+description: 'Volume 4: From Joshua to Esther'
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish legends'
+- !lcsh 'Midrash -- Translations into English'
+- !lcsh 'Aggada -- Translations into English'
+- !lcc 'BM'
+- !lcsh 'Bible. Old Testament -- Legends'
+title: The Legends of the Jews — Volume 4
+url: http://www.gutenberg.org/ebooks/2882
