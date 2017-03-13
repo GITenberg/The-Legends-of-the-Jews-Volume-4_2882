@@ -1,5 +1,5 @@
 _repo: The-Legends-of-the-Jews-Volume-4_2882
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Radin, Paul
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '26637'
     url: http://www.gutenberg.org/2009/agents/26637
     wikipedia: http://en.wikipedia.org/wiki/Henrietta_Szold
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ginzberg, Louis
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/651
     wikipedia: http://en.wikipedia.org/wiki/Louis_Ginzberg
 description: 'Volume 4: From Joshua to Esther'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2882#The-Legends-of-the-Jews-Volume-4
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
