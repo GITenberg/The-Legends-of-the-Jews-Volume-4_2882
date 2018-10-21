@@ -1,5 +1,5 @@
 _repo: The-Legends-of-the-Jews-Volume-4_2882
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translators:
   - agent_name: Radin, Paul
@@ -43,5 +43,6 @@ subjects:
 - !lcsh 'Aggada -- Translations into English'
 - !lcc 'BM'
 - !lcsh 'Bible. Old Testament -- Legends'
+- GITenberg
 title: The Legends of the Jews — Volume 4
 url: http://www.gutenberg.org/ebooks/2882
